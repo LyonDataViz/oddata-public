@@ -1,0 +1,187 @@
+{
+  "file": "random/random-data.csv",
+  "name": "Random XY Data",
+  "header": 1,
+  "separator": ",",
+  "meta": {
+    "date": "start_time",
+    "group": "group",
+    "timeParse": "%c",
+    "cumul": "distance"
+  },
+  "grids": [
+    {
+      "title": "random",
+      "tree": [
+        { "group": "orientation", "gridding": "grid", "padding": 5 },
+        { "group": "start_time" }
+      ]
+    },
+    {
+      "title": "random-od",
+      "tree": [
+        {
+          "group": "cell_group_destination",
+          "gridding": "grid",
+          "padding": 5
+        },
+        {
+          "group": "start_time"
+        }
+      ]
+    },
+    {
+      "title": "random-group-color",
+      "tree": [
+        { "group": "orientation", "gridding": "grid", "padding": 5 },
+        { "group": "group", "gridding": "grid", "padding": 5 },
+        { "group": "group" }
+      ]
+    }    
+  ],
+  "attributes": [
+    {
+      "name": "x1",
+      "type": "quantitative"
+    },
+    {
+      "name": "x2",
+      "type": "quantitative"
+    },
+    {
+      "name": "y1",
+      "type": "quantitative"
+    },
+    {
+      "name": "y2",
+      "type": "quantitative"
+    },
+    {
+      "name": "distance",
+      "type": "quantitative"
+    },
+    {
+      "name": "distance_category",
+      "type": "categorical"
+    },
+    {
+      "name": "orientation_4",
+      "type": "categorical"
+    },
+    {
+      "name": "start_time",
+      "type": "categorical"
+    },
+    {
+      "name": "start_year",
+      "type": "categorical"
+    },
+    {
+      "name": "start_month",
+      "type": "categorical"
+    },
+    {
+      "name": "start_day",
+      "type": "categorical"
+    },
+    {
+      "name": "start_hour",
+      "type": "categorical"
+    },
+    {
+      "name": "start_minute",
+      "type": "categorical"
+    },
+    {
+      "name": "start_second",
+      "type": "categorical"
+    },
+    {
+      "name": "end_time",
+      "type": "categorical"
+    },
+    {
+      "name": "end_year",
+      "type": "categorical"
+    },
+    {
+      "name": "end_month",
+      "type": "categorical"
+    },
+    {
+      "name": "end_day",
+      "type": "categorical"
+    },
+    {
+      "name": "end_hour",
+      "type": "categorical"
+    },
+    {
+      "name": "end_minute",
+      "type": "categorical"
+    },
+    {
+      "name": "end_second",
+      "type": "categorical"
+    },
+    {
+      "name": "duration",
+      "type": "quantitative"
+    },
+    {
+      "name": "speed",
+      "type": "quantitative"
+    },
+    {
+      "name": "speed_category",
+      "type": "categorical"
+    },
+    {
+      "name": "orientation_8",
+      "type": "categorical"
+    },
+    {
+      "name": "duration_category",
+      "type": "categorical"
+    },
+    {
+      "name": "cell_group_origin",
+      "type": "categorical"
+    },
+    {
+      "name": "cell_group_destination",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_time",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_year",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_month",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_day",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_hour",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_minute",
+      "type": "categorical"
+    },
+    {
+      "name": "bi_start_second",
+      "type": "categorical"
+    }
+  ],
+  "author": "Romain Vuillemot",
+  "description": "Random data",
+  "source": ""
+}
