@@ -1,0 +1,174 @@
+{
+  "file": "PL&VL/PVOD.csv",
+  "name": "PL & VL",
+  "header": 1,
+  "separator": ",",
+  "meta": {
+    "date": "YEAR",
+    "start_latitude": "start_lat",
+    "start_longitude": "start_lon",
+    "end_latitude": "end_lat",
+    "end_longitude": "end_lon"
+  },
+  "attributes": [
+    {
+      "name": "DEPT_O",
+      "type": "categorical"
+    },
+    {
+      "name": "DEPT_LIBELLE_O",
+      "type": "categorical"
+    },
+    {
+      "name": "DEPT_D",
+      "type": "categorical"
+    },
+    {
+      "name": "DEPT_LIBELLE_D",
+      "type": "categorical"
+    },
+    {
+      "name": "TMJA_VL_2S",
+      "type": "quantitative"
+    },
+    {
+      "name": "TMJA_PL_2S",
+      "type": "quantitative"
+    },
+    {
+      "name": "start_county_seat",
+      "type": "categorical"
+    },
+    {
+      "name": "end_county_seat",
+      "type": "categorical"
+    },
+    {
+      "name": "start_codastral_area",
+      "type": "quantitative"
+    },
+    {
+      "name": "end_codastral_area",
+      "type": "quantitative"
+    },
+    {
+      "name": "start_population",
+      "type": "quantitative"
+    },
+    {
+      "name": "end_population",
+      "type": "quantitative"
+    },
+    {
+      "name": "start_density",
+      "type": "quantitative"
+    },
+    {
+      "name": "end_density",
+      "type": "quantitative"
+    },
+    {
+      "name": "start_drct_area",
+      "type": "categorical"
+    },
+    {
+      "name": "end_drct_area",
+      "type": "categorical"
+    },
+    {
+      "name": "start_adj",
+      "type": "categorical"
+    },
+    {
+      "name": "end_adj",
+      "type": "categorical"
+    },
+    {
+      "name": "ap_distance",
+      "type": "quantitative"
+    },
+    {
+      "name": "start_voisin_1",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_2",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_3",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_4",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_5",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_6",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_7",
+      "type": "categorical"
+    },
+    {
+      "name": "start_voisin_8",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_1",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_2",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_3",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_4",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_5",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_6",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_7",
+      "type": "categorical"
+    },
+    {
+      "name": "end_voisin_8",
+      "type": "categorical"
+    },
+    {
+      "name": "is_neighbor",
+      "type": "categorical"
+    },
+    {
+      "name": "orientation_4",
+      "type": "categorical"
+    },
+    {
+      "name": "orientation_8",
+      "type": "categorical"
+    },
+    {
+      "name": "distance_category",
+      "type": "categorical"
+    }
+  ],
+  "author": "Natacha Roger, data.gouv.fr",
+  "description": "La matrice nationale des flux de véhicules légers (VL) et des flux de poids lourds (PL) est constituée d’une estimation du nombre de véhicules se rendant d’un département à un autre pour une journée moyenne de l’année 2011. Les flux d’origine et de destination sont évalués deux sens confondus. Data geocoded by Liu Liqun",
+  "source": "https://www.data.gouv.fr/fr/datasets/matrice-nationale-origine-destination-des-flux-de-vehicules-legers-et-de-poids-lourds/"
+}

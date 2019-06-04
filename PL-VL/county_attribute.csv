@@ -1,0 +1,96 @@
+Code,Name,county_seat,cadastral_area,Population,Density,Latitude,Longitude,directional_area,Adjacent
+1,Ain ,Bourg-en-Bresse ,5762,631877,109.7,46.21,5.21,E,Suisse
+2,Aisne ,Laon ,7369,538659,73.1,49.58,3.63,N,Inland
+3,Allier ,Mills ,7340,341613,46.5,46.373999999999995,3.424,C,Inland
+4,Alpes-de-Haute-Provence ,Digne-les-Bains ,6925,161799,23.4,44.093,6.232,SE,Inland
+5,Hautes-Alpes ,Gap,5549,140916,25.4,44.57,6.08,SE,Italie
+6,Alpes-Maritimes,Nice,4299,1082440,251.8,43.7,7.27,SE,I&O
+7,ArdÃƒÆ’Ã‚Â¨che,Privas,5529,324209,58.6,44.735,4.5969999999999995,SE,Inland
+8,Ardennes,Charleville-MÃƒÆ’Ã‚Â©ziÃƒÆ’Ã‚Â¨res,5229,277752,53.1,49.75,4.73,N,Belgique
+9,AriÃƒÆ’Ã‚Â¨ge,Foix,4890,152499,31.2,42.967,1.604,S,E&A
+10,Dawn,Troyes,6004,309056,51.5,48.3,4.08,N,Inland
+11,Aude,Carcassonne,6139,366957,59.8,43.22,2.34,S,Ocean
+12,Aveyron,Rodez,8735,279169,32.0,44.349,2.5759,S,Inland
+13,Bouches-du-RhÃƒÆ’Ã‚Â´ne,Marseille,5088,2016622,396.4,43.31,5.37,S,Ocean
+14,Calvados,Caen,5548,693579,125.0,49.19,-0.36,N,Ocean
+15,Cantal,Aurillac,5726,146219,25.5,44.92,2.43,C,Inland
+16,Charente,AngoulÃƒÆ’Ã‚Âªme,5956,353613,59.4,46.0,0.15,W,Inland
+17,Charente-Maritime,La Rochelle,6864,639938,93.2,46.17,-1.18,W,Ocean
+18,Dear,Bourges,7235,308992,42.7,47.08,2.39,C,Inland
+19,CorrÃƒÆ’Ã‚Â¨ze,Tulle,5857,241871,41.3,45.26600000000001,1.7730000000000001,C,Inland
+20,Corse,Ajaccio,8680,327283,37.5,40.035,9.016,S,Ocean
+21,CÃƒÆ’Ã‚Â´te-d'Or,Dijon,8763,533147,60.8,47.33,5.03,E,Inland
+22,CÃƒÆ’Ã‚Â´tes-d'Armor,Saint-Brieuc,6878,598357,87.0,48.52,-2.77,NW,Ocean
+23,Hollow,GuÃƒÆ’Ã‚Â©ret,5565,120365,21.6,46.169,1.87,C,Inland
+24,Dordogne,PÃƒÆ’Ã‚Â©rigueux,9060,415417,45.9,45.18,0.71,W,Inland
+25,Doubs,BesanÃƒÆ’Ã‚Â§on,5233,536959,102.6,47.24,6.02,E,Suisse
+26,DrÃƒÆ’Ã‚Â´me,Valencia,6530,504637,77.3,44.933,4.904,SE,Inland
+27,Eure,Evreux,6040,601948,99.7,49.03,1.14,N,Inland
+28,Eure-et-Loir,Chartres,5880,434035,73.8,48.46,1.48,N,Inland
+29,Finistere,Quimper,6733,907796,134.8,47.99,-4.11,NW,Ocean
+30,Gard,NÃƒÆ’Ã‚Â®mes,5853,738189,126.1,43.84,4.35,S,Ocean
+31,Haute-Garonne,Toulouse,6309,1335103,211.6,43.62,1.45,SW,Espagne
+32,Gers,Auch,6257,190932,30.5,43.65,0.56,SW,Inland
+33,Gironde,Bordeaux,9976,1548478,155.2,44.84,-0.58,W,Ocean
+34,HÃƒÆ’Ã‚Â©rault,Montpellier,6101,1120190,183.6,43.61,3.87,S,Ocean
+35,Ille-et-Vilaine,Rennes,6775,1042884,153.9,48.11,-1.68,NW,Ocean
+36,Indre,ChÃƒÆ’Ã‚Â¢teauroux,6791,224200,33.0,46.81,1.7,C,Inland
+37,Indre-et-Loire,Tours,6127,604966,98.7,47.38,0.69,C,Inland
+38,IsÃƒÆ’Ã‚Â¨re,Grenoble,7432,1251060,168.3,45.19,5.72,E,Inland
+39,Jura,Lons-le-Saunier,4999,260587,52.1,46.676,5.555,E,Suisse
+40,Landes,Mont-de-Marsan,9243,403234,43.6,43.9,-0.51,SW,Ocean
+41,Loir-et-Cher,Blois,6343,333050,52.5,47.59,1.32,C,Inland
+42,Loire,St. Stephen,4781,759411,158.9,45.44,4.387,C,Inland
+43,Haute-Loire,Le Puy-en-Velay,4977,227034,45.6,45.043,3.887,C,Inland
+44,Loire-Atlantique,Nantes,6809,1365227,200.5,47.23,-1.57,NW,Ocean
+45,Loiret,Orleans,6775,673349,99.4,47.9,1.9,C,Inland
+46,Lot,Cahors,5217,173400,33.2,44.44,1.44,C,Inland
+47,Lot-et-Garonne,Agen,5361,333417,62.2,44.2,0.62,SW,Inland
+48,LozÃƒÆ’Ã‚Â¨re,Mende,5167,76309,14.8,44.516999999999996,3.4989999999999997,S,Inland
+49,Maine-et-Loire,Angers,7172,810186,113.0,47.48,-0.54,NW,Inland
+50,Channel,Saint-LÃƒÆ’Ã‚Â´,5938,499287,84.1,49.11600000000001,-1.081,NW,Ocean
+51,Marne,ChÃƒÆ’Ã‚Â¢lons-en-Champagne,8162,572293,70.1,48.97,4.36,N,Inland
+52,Haute-Marne,Chaumont,6211,179154,28.8,48.11,5.14,NE,Inland
+53,Mayenne,Laval,5175,307940,59.5,48.07,-0.78,NW,Inland
+54,Meurthe-et-Moselle,Nancy,5246,734403,140.0,48.69,6.17,NE,B&L
+55,Meuse,Bar-le-Duc,6211,190626,30.7,48.77,5.16,NE,Inland
+56,Morbihan,Valves,6823,744813,109.2,47.726000000000006,-2.425,NW,Ocean
+57,Moselle,Metz,6216,1044486,168.0,49.12,6.18,NE,L&A
+58,NiÃƒÆ’Ã‚Â¨vre,Nevers,6817,211747,31.1,47.0,3.15,C,Inland
+59,North,Lille,5743,2605238,453.7,50.64,3.07,N,Belgique
+60,Oise,Beauvais,5860,821552,140.2,49.43,2.09,N,Inland
+61,Orne,AlenÃƒÆ’Ã‚Â§on,6103,286618,47.0,48.44,0.09,NW,Inland
+62,Pas-de-Calais,Arras,6671,1472648,220.7,50.29,3.0,N,Ocean
+63,Puy-de-Dome,Clermont-Ferrand,7970,647501,81.2,45.78,3.08,C,Inland
+64,PyrÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©es-Atlantiques,Pau,7645,670032,87.6,43.3,-0.39,SW,E&O
+65,Hautes-PyrÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©es,Tarbes,4464,228582,51.2,43.24,0.08,SW,Espagne
+66,PyrÃƒÆ’Ã‚Â©nÃƒÆ’Ã‚Â©es-Orientales,Perpignan,4116,471038,114.4,42.7,2.89,S ,E&O&A
+67,Bas-Rhin,Strasbourg,4755,1116658,234.8,48.58,7.76,NE,Allemagne
+68,Haut-Rhin,Colmar,3525,762607,216.3,48.08,7.36,E,A&S
+69,RhÃƒÆ’Ã‚Â´ne,Lyon,3249,1821995,560.8,45.76,4.83,C,Inland
+70,Haute-Saone,Vesoul,5360,237706,44.3,47.619,6.1545,E,Inland
+71,SaÃƒÆ’Ã‚Â´ne-et-Loire,Macon,8575,555408,64.8,46.31,4.81,C,Inland
+72,Sarthe,Le Mans,6206,568445,91.6,48.0,0.2,NW,Inland
+73,Savoie,Chambery,6028,428204,71.0,45.58,5.91,E,Italie
+74,Haute-Savoie,Annecy,4388,793938,180.9,45.91,6.12,E,S&I
+75,Paris,Paris,105,2206488,20934.4,48.86,2.34,N,Inland
+76,Seine-Maritime,Rouen,6278,1257699,200.3,49.44,1.08,N,Ocean
+77,Seine-et-Marne,Melun,5915,1390121,235.0,48.54,2.65,N,Inland
+78,Yvelines,Versailles,2284,1427291,624.8,48.81,2.14,N,Inland
+79,Deux-SÃƒÆ’Ã‚Â¨vres,Niort,5999,374435,62.4,46.32,-0.47,W,Inland
+80,Sum,Amiens,6170,571879,92.7,49.9,2.0,N,Ocean
+81,Tarn,Albi,5758,386543,67.1,43.93,2.0,S,Inland
+82,Tarn-et-Garonne,Montauban,3718,255274,68.7,44.02,1.35,S,Inland
+83,Var,Toulon,5973,1048652,175.6,43.13,5.92,SE,Ocean
+84,Vaucluse,Avignon,3567,557548,156.3,43.96,4.81,SE,Inland
+85,VendÃƒÆ’Ã‚Â©e,La Roche-sur-Yon,6720,666714,99.2,46.67,-1.44,W,Ocean
+86,Vienna,Poitiers,6990,434887,62.2,46.58,0.34,C,Inland
+87,Haute-Vienne,Limoges,5520,375795,68.1,45.83,1.25,C,Inland
+88,Vosges,Epinal,5874,372016,63.3,48.18,6.44,NE,Inland
+89,Yonne,Auxerre,7427,340903,45.9,47.81,3.56,C,Inland
+90,Territoire de Belfort,Belfort,609,144483,237.1,47.65,6.85,E,Suisse
+91,Essonne,Evry,1804,1276233,707.3,48.64,2.44,N,Inland
+92,Hauts-de-Seine,Nanterre,176,1601569,9120.6,48.9,2.2,N,Inland
+93,Seine-Saint-Denis,Bobigny,236,1592663,6742.9,48.91,2.44,N ,Inland
+94,Val-de-Marne,Creteil,245,1372389,5601.6,48.79,2.45,N ,Inland
+95,Val d'Oise,Pontoise,1246,1215390,975.5,49.05,2.09,N,Inland
