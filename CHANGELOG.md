@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+# [1.3.0](https://github.com/LyonDataViz/oddata-public/compare/v1.2.2...v1.3.0) (2019-06-04)
+
+
+### Features
+
+* add PL/VL dataset ([e60e097](https://github.com/LyonDataViz/oddata-public/commit/e60e097))
+
+
+
 ## [1.2.2](https://github.com/LyonDataViz/oddata-public/compare/v1.2.1...v1.2.2) (2019-06-04)
 
 
