@@ -1,0 +1,71 @@
+{
+  "file": "quickdraw/circle-data.csv",
+  "name": "Quickdraw Circle",
+  "header": 1,
+  "separator": ",",
+  "meta": {
+    "date": "step",
+    "group": "id"
+  },
+  "grids": [
+  {
+    "title": "recognized",
+    "tree": [
+      {
+        "index": 1,
+        "slot": 0,
+        "gridding": "",
+        "group": "recognized"
+      },
+      {
+        "group": "",
+        "index": 2,
+        "slot": 1,
+        "gridding": ""
+      }
+    ],
+    "start_circle_width": 0,
+    "end_circle_width": 0,
+    "stroke_width": 10,
+    "opacity": 1,
+    "ui_show": "Grid"
+  }
+  ],
+  "attributes": [
+    {
+      "name": "x1",
+      "type": "quantitative"
+    },
+    {
+      "name": "x2",
+      "type": "quantitative"
+    },
+    {
+      "name": "y1",
+      "type": "quantitative"
+    },
+    {
+      "name": "y2",
+      "type": "quantitative"
+    },
+    {
+      "name": "key_id",
+      "type": "quantitative"
+    },
+    {
+      "name": "countrycode",
+      "type": "categorical"
+    },
+    {
+      "name": "step",
+      "type": "categorical"
+    },
+    {
+      "name": "recognized",
+      "type": "categorical"
+    }
+  ],
+  "author": "Romain Vuillemot",
+  "description": "Circle data",
+  "source": ""
+}
