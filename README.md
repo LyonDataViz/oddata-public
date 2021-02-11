@@ -10,7 +10,7 @@ Repository for origin-destination datasets
 
 4. Add link to `your-project` directory in the master file `dataset.json` (list of all datasets)
 
-5. Your dataset should appear in https://observablehq.com/d/4b289c7f004f8bd4
+5. Your dataset should appear in https://observablehq.com/d/188f3eb2bb17b279
 
 ## The file [dataset.json](dataset.json) links to all those datasets
 
@@ -245,4 +245,4 @@ The `attributes` object describes the secondary fields: duration, price, age… 
 
 ## Usage
 
-[This Observable notebook](https://observablehq.com/d/4b289c7f004f8bd4) shows how to use this set of datasets in a unified manner.
+[This Observable notebook](https://observablehq.com/d/188f3eb2bb17b279) shows how to use this set of datasets in a unified manner.
